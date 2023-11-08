@@ -1,0 +1,38 @@
+:root{ 
+--sgsag:"div>p";
+--jhfjhf:"div";
+--main: "html>body";
+--safsaf:"dynamic text herer";
+--xfgjxfg:{
+    color:white;
+    background-color:red;
+};
+--gjkgjkg:"rgregreg";
+--kgjk ( asf , asfhng ):{   
+padding : --asf;
+color : --asfhng;
+return      
+};
+}
+
+html {};
+html + head {};
+html > head + style {};
+html > head + meta {};
+html + body {};
+--main + h1 {} = --safsaf;
+--main + input[type="password"]{};
+--main + p {} = --safsaf;
+--main + a {--kgjk(15px,blue)} = "dynamiccss" :hover{color:green;};
+--main + div [class="design"]  {
+    color:LightBlue;
+} = "nested div" :hover{
+    color:green;
+};
+--main + div [class="designer"] = --sgsag;
+--main  + div > p [class="designer"] = --sgsag;
+--main > sagsa.iffd.fsfsdf#gagsag {
+    color:LightBlue;
+    display: block;
+    padding: 10px 5px;
+} = "divgkgdivyi"; 
