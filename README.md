@@ -2,7 +2,7 @@
 Preprocessor language DCSS (Dynamic Style Sheet)
 
 ## Install
-Download and write in basic CSS syntax this will generate tag dynamically
+Download and write in basic CSS syntax this will generate tag dynamically and virtually with DOM.
 
 ## Usage
 ### Create tag with inner text
