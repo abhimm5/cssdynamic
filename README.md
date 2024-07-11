@@ -1,5 +1,3 @@
-# cssdynamic
-
 # Dynamic Style Sheet
 Preprocessor language DCSS (Dynamic Style Sheet)
 
